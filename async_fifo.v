@@ -1,12 +1,12 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
 // Company: 
-// Engineer: 
+// Engineer: Advait Risbud
 // 
 // Create Date: 27.08.2024 21:53:13
 // Design Name: 
 // Module Name: async_fifo
-// Project Name: 
+// Project Name: Asynchronous Fifo
 // Target Devices: 
 // Tool Versions: 
 // Description: 
